@@ -1,0 +1,10 @@
+:root {
+	--theme: #171821;
+	--title-color: #FFFFFF;
+	--gray: #474B54;
+	--green: #25D366;
+	--border-color: #393636;
+	--border: 1px solid var(--border-color);
+
+	--font-famaly: "Inter";
+}
